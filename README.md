@@ -1,3 +1,1 @@
-<div align="center">
-# Digit Classifier
-</div>
+## Digit Classifier
